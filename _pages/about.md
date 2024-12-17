@@ -19,7 +19,7 @@ redirect_from:
 
 本科毕业于昆明理工大学，研究方向AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议4篇，授权发明专利4篇，受理1篇，技术转让一篇。
 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=XAKM93EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 
 
