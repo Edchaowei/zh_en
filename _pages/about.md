@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本科毕业于昆明理工大学，研究方向AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议4篇，授权发明专利4篇，受理1篇，其中一篇技术转让云南路飞新能源材料有限公司。
+本科毕业于昆明理工大学，研究方向AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议4篇，授权发明专利4篇，受理1篇，技术转让一篇。
 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
@@ -152,9 +152,8 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2023* 获得 The 2023 ICPC China Silk Road National Invitational Programming Contest `铜奖`  
+
 
 <span class='anchor' id='-xshy'></span>
 
