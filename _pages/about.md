@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本科毕业于昆明理工大学，研究方向AI for Science，已推免至上海大学。本科期间发表学术论文1篇，国际会议4篇，发明专利授权3篇，受理1篇，其中以作为第一发明人授权专利两篇，其中一篇技术转让云南路飞新能源材料有限公司。
+本科毕业于昆明理工大学，研究方向AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议4篇，授权发明专利4篇，受理1篇，其中一篇技术转让云南路飞新能源材料有限公司。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -28,11 +28,10 @@ redirect_from:
 
   
 
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.06 - 2025.07*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 昆明理工大学 信息工程与自动化学院, 云南昆明, 本科 
+- *2021.06 - 2025.07*, <a href="https://www.kmust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 昆明理工大学 信息工程与自动化学院, 云南昆明, 本科 
 - *2025.09 - 2028.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 上海大学 未来技术学院, 上海, 推免读研
  
 <span class='anchor' id='-lwzl'></span>
@@ -135,15 +134,13 @@ redirect_from:
 - 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 
-### 专利
+### 发明专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
+- `崔超伟`, 蔡子昊, 罗福蓉. 基于小样本学习算法的锂离子电池寿命预测方法和系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1m_tsTYzLsvcW1enrGWdtnLUQzNK5i8uY-zmHdAkDBN01tY0_QN0pg9xAePR8jK_rnIx3vfo_L6c0TB7IhA0Kr7kEGGAapf9D-4hsCw5nlT-vfMf9QgkDdmEk0jrbgtABum99mz-7fNb8cy--UBY-GPLgVj2cGtyw_cqb2ysmXHKzo_y7Y9Xz3&uniplatform=NZKPT&language=CHS)
+- `崔超伟`, 王东, 蔡云麒, 李江南; 沈韬, 谭纲觉, 刘金环. 基于深度学习的自适应尺度的微磁学模拟方法.[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu2JxffTwdgy3AnvbzsvkVL1xpX5Mi8q6-h_i6KrWPOLmCrQQi40Q5tje1p7CV4vp1NW_cUcT2EXpXSdW6uFQhpbhgo3mtvqwnu-_W2I4qYJNFONTz3wvodyhaaOHnCoFVohUa7ZxA0RvGxmwTBYSpLtFztEb_L3z0T-VEo_UCPKB_ugM0QT6Vay&uniplatform=NZKPT&language=CHS)
+- 蔡云麒, 蔡子昊, 张舒飞, `崔超伟`, 李康, 沈韬. 基于格拉姆角和场的锂电池剩余寿命实时预测方法. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcpftaZUyXAmflihf8Pdeg_cFi1NM878gHC3ho3tQpuACGuwGS4RUi9KOasPcv3vtUAGeL32vR_Ial64Rp_ezOk3LLcsnpIysqbx8REy1eJcVLjmTQqOl9-e8JcMe7GU9ZQ32HzvuPKY0&uniplatform=NZKPT&language=CHS) 
+- 谭纲觉, 李江南, 蔡云麒, 王东, 马吉, 沈韬, `崔超伟`. 基于生成模型的微磁动力学模拟方法. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcgX7dhhqWuNvv3JLfZCfkZStR-yKUIIrBmZF9GaFswD_gEM0FVQenc9Mwom9cEWq6UiSe1W9DTNksr0MIQ12KI0yBWQSB7gOJqP9gjxMMiWrA3khpU0uOZ1UMYY-NB5RfLA1DpSNwOwW&uniplatform=NZKPT&language=CHS) 
+- 董明荣, 蔡子昊, `崔超伟`, 蔡云麒, 沈韬, 谭纲觉, 刘金环. 基于递归图和改进 AlexNet 模型的锂电池故障识别方法、系统及存储介质. [[网页]]() 
 
 
 
