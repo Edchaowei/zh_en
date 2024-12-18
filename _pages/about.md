@@ -42,7 +42,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/buildings-13-02956-g004.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Yanjun Meng, Hui Zhai, Bak Koon Teoh, Robert Lee Kong Tiong, Siyang Huang, Dawei Cen, `Chaowei Cui`. A Data-Driven Method for Constructing the Spatial Database of Traditional Villages—A Case Study of Courtyard Residential Typologies in Yunnan, China. Buildings 2023, 13, 2956.  (JCR:Q2; IF:3.1)  
