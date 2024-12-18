@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "崔超伟"
 description              : "AI for Science"
-repository               : "Edchaowei/zh-cn"
+repository               : "Edchaowei/homepage"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "上海市"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XAKM93EAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=homepage&user=XAKM93EAAAAJ"
   email            : "cuichaowei@stu.kust.edu.cn"
   researchgate     : 
   uri              : 
