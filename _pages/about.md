@@ -61,19 +61,19 @@ My research interest includes:
 
 ### Invention Patent
 ---
-- `Cui Chaowei`, Cai Zihao, Luo Furong. "Lithium-ion battery life prediction method and system based on small sample learning algorithm". Technology transfer Yunnan Luffy New Energy Materials Co., Ltd.
+- `Cui Chaowei`, Cai Zihao, Luo Furong. "Lithium-ion battery life prediction method and system based on small sample learning algorithm". Technology transfer Yunnan Luffy New Energy Materials Co., Ltd.<br>
 `崔超伟`, 蔡子昊, 罗福蓉. 《基于小样本学习算法的锂离子电池寿命预测方法和系统》.技术转让云南路飞新能源材料有限公司 [[HTML]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1m_tsTYzLsvcW1enrGWdtnLUQzNK5i8uY-zmHdAkDBN01tY0_QN0pg9xAePR8jK_rnIx3vfo_L6c0TB7IhA0Kr7kEGGAapf9D-4hsCw5nlT-vfMf9QgkDdmEk0jrbgtABum99mz-7fNb8cy--UBY-GPLgVj2cGtyw_cqb2ysmXHKzo_y7Y9Xz3&uniplatform=NZKPT&language=CHS)
 
-- `Cui Chaowei`, Wang Dong, Cai Yunqi, Li Jiangnan; Shen Tao, Tan Gangjue, Liu Jinhuan. "Adaptive scale micromagnetic simulation method based on deep learning"
+- `Cui Chaowei`, Wang Dong, Cai Yunqi, Li Jiangnan; Shen Tao, Tan Gangjue, Liu Jinhuan. "Adaptive scale micromagnetic simulation method based on deep learning"<br>
 `崔超伟`, 王东, 蔡云麒, 李江南; 沈韬, 谭纲觉, 刘金环. 《基于深度学习的自适应尺度的微磁学模拟方法》.[[HTML]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu2JxffTwdgy3AnvbzsvkVL1xpX5Mi8q6-h_i6KrWPOLmCrQQi40Q5tje1p7CV4vp1NW_cUcT2EXpXSdW6uFQhpbhgo3mtvqwnu-_W2I4qYJNFONTz3wvodyhaaOHnCoFVohUa7ZxA0RvGxmwTBYSpLtFztEb_L3z0T-VEo_UCPKB_ugM0QT6Vay&uniplatform=NZKPT&language=CHS)
 
-- Cai Yunqi, Cai Zihao, Zhang Shufei, `Cui Chaowei`, Li Kang, Shen Tao. "Real-time prediction method of remaining life of lithium battery based on Gram angle and field"
+- Cai Yunqi, Cai Zihao, Zhang Shufei, `Cui Chaowei`, Li Kang, Shen Tao. "Real-time prediction method of remaining life of lithium battery based on Gram angle and field"<br>
 蔡云麒, 蔡子昊, 张舒飞, `崔超伟`, 李康, 沈韬. 《基于格拉姆角和场的锂电池剩余寿命实时预测方法》. [[HTML]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcpftaZUyXAmflihf8Pdeg_cFi1NM878gHC3ho3tQpuACGuwGS4RUi9KOasPcv3vtUAGeL32vR_Ial64Rp_ezOk3LLcsnpIysqbx8REy1eJcVLjmTQqOl9-e8JcMe7GU9ZQ32HzvuPKY0&uniplatform=NZKPT&language=CHS) 
 
-- Tan Gangjue, Li Jiangnan, Cai Yunqi, Wang Dong, Ma Ji, Shen Tao, Cui Chaowei. "Micromagnetic dynamics simulation method based on generative model"
+- Tan Gangjue, Li Jiangnan, Cai Yunqi, Wang Dong, Ma Ji, Shen Tao, Cui Chaowei. "Micromagnetic dynamics simulation method based on generative model"<br>
 谭纲觉, 李江南, 蔡云麒, 王东, 马吉, 沈韬, `崔超伟`. 《基于生成模型的微磁动力学模拟方法》. [[HTML]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcgX7dhhqWuNvv3JLfZCfkZStR-yKUIIrBmZF9GaFswD_gEM0FVQenc9Mwom9cEWq6UiSe1W9DTNksr0MIQ12KI0yBWQSB7gOJqP9gjxMMiWrA3khpU0uOZ1UMYY-NB5RfLA1DpSNwOwW&uniplatform=NZKPT&language=CHS) 
 
-- Dong Mingrong, Cai Zihao, `Cui Chaowei`, Cai Yunqi, Shen Tao, Tan Gangjue, Liu Jinhuan. "Lithium battery fault identification method, system and storage medium based on recursive graph and improved AlexNet model"
+- Dong Mingrong, Cai Zihao, `Cui Chaowei`, Cai Yunqi, Shen Tao, Tan Gangjue, Liu Jinhuan. "Lithium battery fault identification method, system and storage medium based on recursive graph and improved AlexNet model"<br>
 董明荣, 蔡子昊, `崔超伟`, 蔡云麒, 沈韬, 谭纲觉, 刘金环. 《基于递归图和改进 AlexNet 模型的锂电池故障识别方法、系统及存储介质》. [[HTML]]() 
 
 
