@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "崔超伟"
+  name             : "Chaowei Cui"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "上海大学"
-  location         : "上海市"
+  bio              : "Shanghai University"
+  location         : “Shanghai"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh_en&user=XAKM93EAAAAJ"
