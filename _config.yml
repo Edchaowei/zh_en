@@ -59,6 +59,9 @@ author:
   wikipedia        :
 
 language: cn
+languages:
+  - en
+  - cn
 
 # Reading Files
 include:

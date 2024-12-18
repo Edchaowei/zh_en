@@ -28,12 +28,14 @@
         <ul class="visible-links">
           <!-- 语言切换按钮 -->
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            {% if page.url == '/homepage/' %}
+            {% if page.url contains '/homepage/' %}
+              <!-- 如果当前页面是中文页面 -->
               <a href="https://edchaowei.github.io/homepage/about-en/" target="_self">
                 <img class="svg" src="images/en.svg" width="20pt"> 
                 English
               </a>
             {% else %}
+              <!-- 如果当前页面是英文页面 -->
               <a href="https://edchaowei.github.io/homepage/" target="_self">
                 <img class="svg" src="images/cn.svg" width="20pt"> 
                 中文
@@ -42,7 +44,8 @@
           </li>
 
           <!-- 动态生成导航项 -->
-          {% for link in site.data.navigation[site.language].main %}
+          {% assign current_language = page.url contains '/about-en/' ? 'en' : 'cn' %}
+          {% for link in site.data.navigation[current_language].main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
