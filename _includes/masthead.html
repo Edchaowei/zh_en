@@ -28,12 +28,12 @@
         <ul class="visible-links">
           <!-- 语言切换 -->
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="https://edchaowei.github.io/homepage/" target="_self">
+            <a href="javascript:void(0);" id="language-switcher">
               <img class="svg" src="images/{{ site.language == 'en' ? 'en.svg' : 'cn.svg' }}" width="20pt"> 
               {{ site.language == 'en' ? 'English' : '中文' }}
             </a>
           </li>
-          
+
           <!-- 动态生成导航项 -->
           {% for link in site.data.navigation[site.language].main %}
             <li class="masthead__menu-item">
