@@ -1,13 +1,12 @@
 ---
-permalink: /about-en/
+permalink: /
 title: ""
 excerpt: ""
 lang: "zh-en"
-layout: default
 author_profile: true
-# redirect_from: 
-#   - /about-en/
-#   - /about-en.html
+redirect_from: 
+  - /about-en/
+  - /about-en.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -19,7 +18,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-本科毕业于昆明理工大学111，研究方向:AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议3篇，授权发明专利4篇，受理1篇，技术转让1篇。
+本科毕业于昆明理工大学English，研究方向:AI for Science，已推免至上海大学。本科期间共发表学术论文1篇，国际会议3篇，授权发明专利4篇，受理1篇，技术转让1篇。
 
  <a href='https://scholar.google.com/citations?user=XAKM93EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
