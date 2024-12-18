@@ -1,4 +1,4 @@
-<div class="masthead">
+<!-- <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
@@ -18,5 +18,31 @@
       </nav>
     </div>
   </div>
-</div>
+</div> -->
 
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <!-- 语言切换按钮 -->
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ page.url == '/homepage/' ? 'https://edchaowei.github.io/homepage/about-en/' : 'https://edchaowei.github.io/homepage/' }}" target="_self">
+              <img class="svg" src="images/{{ page.url == '/homepage/' ? 'en.svg' : 'cn.svg' }}" width="20pt">
+              {{ page.url == '/homepage/' ? 'English' : '中文' }}
+            </a>
+          </li>
+
+          <!-- 动态生成导航项 -->
+          {% for link in site.data.navigation[site.language].main %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
