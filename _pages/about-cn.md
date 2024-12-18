@@ -2,7 +2,7 @@
 permalink: /about-cn/
 title: ""
 excerpt: ""
-lang: "Chinese"
+lang: "zh-cn"
 author_profile: true
 # redirect_from: 
 #   - /zh-cn/about/
