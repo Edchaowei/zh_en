@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about_eng/
-  - /about_eng.html
+  - /zh-en/about/
+  - /zh-en/about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
