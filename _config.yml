@@ -125,6 +125,7 @@ defaults:
       type: pages
     values:
       layout: default
+      lang: zh-cn
       author_profile: true
 
 
