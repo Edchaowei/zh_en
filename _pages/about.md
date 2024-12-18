@@ -34,7 +34,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 About Me
+# 🎓 Educations
 - *2025.09 - 2028.06*, <a href="https://www.shu.edu.cn/"><img class="svg" src="/zh_en/images/SHU_logo.svg" width="20pt"></a> 上海大学 未来技术学院, 上海, 推免读研
 - *2021.06 - 2025.07*, <a href="https://www.kmust.edu.cn/"><img class="svg" src="/zh_en/images/KUST_logo.svg" width="23pt"></a> 昆明理工大学 信息工程与自动化学院, 云南昆明, 本科 
 <span class='anchor' id='-lwzl'></span>
