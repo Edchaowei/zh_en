@@ -3,10 +3,11 @@ permalink: /about-en/
 title: ""
 excerpt: ""
 lang: "zh-en"
+layout: default
 author_profile: true
-redirect_from: 
-  - /about-en/
-  - /about-en.html
+# redirect_from: 
+#   - /about-en/
+#   - /about-en.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
