@@ -1,5 +1,5 @@
 ---
-permalink: /about-cn/
+permalink: /
 title: ""
 excerpt: ""
 lang: "zh-cn"
