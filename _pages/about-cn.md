@@ -4,9 +4,9 @@ title: ""
 excerpt: ""
 lang: "zh-cn"
 author_profile: true
-# redirect_from: 
-#   - /zh-cn/about/
-#   - /zh-cn/about.html
+redirect_from: 
+  - /about-cn/
+  - /about-cn.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
