@@ -1,14 +1,14 @@
 
 <h1 align="center">
-Acadhomepage
+Acadzh_en
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](./docs/README-en.md) 
+[![](https://img.shields.io/github/stars/RayeRen/acad-zh_en.github.io)](https://github.com/RayeRen/acad-zh_en.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-zh_en.github.io)](https://github.com/RayeRen/acad-zh_en.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-zh_en.github.io)](https://github.com/RayeRen/acad-zh_en.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-zh_en.github.io)](https://github.com/RayeRen/acad-zh_en.github.io/blob/main/LICENSE)  | [English README](./docs/README-en.md) 
 
 </div>
 
@@ -22,7 +22,7 @@ Acadhomepage
 </p>
 
 一些例子：
-- [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
+- [样例页面](https://rayeren.github.io/acad-zh_en.github.io/)
 - [作者的个人主页](https://rayeren.github.io/)
 
 ## 主要特点
@@ -62,6 +62,6 @@ Acadhomepage
 
 # Acknowledges
 
-- Acadhomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- Acadhomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- Acadhomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- Acadzh_en incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- Acadzh_en is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- Acadzh_en is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
