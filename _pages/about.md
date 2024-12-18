@@ -34,12 +34,12 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 About Me
 - *2025.09 - 2028.06*, <a href="https://www.shu.edu.cn/"><img class="svg" src="/zh_en/images/SHU_logo.svg" width="20pt"></a> 上海大学 未来技术学院, 上海, 推免读研
 - *2021.06 - 2025.07*, <a href="https://www.kmust.edu.cn/"><img class="svg" src="/zh_en/images/KUST_logo.svg" width="23pt"></a> 昆明理工大学 信息工程与自动化学院, 云南昆明, 本科 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publications
 
 ### 英文
 ---
@@ -70,20 +70,20 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors and Awards
 - *2023* 获得 The 2023 ICPC China Silk Road National Invitational Programming Contest `铜奖`  
 
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ Conferences
 - *2024.10*, Zhongyuan Jiang, Hongbo Fan, `Chaowei Cui`, Zihan He, Denghui Zhao, Kunshu Wu.CW-MobileViT: A Lightweight Deep Learning Model for Cattle Identification in Precision Livestock Farming (ICBAIE 2024). 
 - *2024.09*, Zihao Cai, Mingrong Dong, `Chaowei Cui`, Furong Luo, Jinhuan Liu, Hang Liu. Research on deep learning model of lithium-ion battery life prediction based on DeepAR, LstNet and N-Beats (EPEE 2024).
 - *2023.04*, Liqing Yang, `Chaowei Cui`, Tianyu Wang. Intelligent Algorithm-based Model for Predicting International Chinese Teachers' Continuous Willingness to Teach Online (ICEIB 2023).
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 Internships
 - *2024.11 - 2025.05*, 引力传媒有限公司股份有限公司 `算法实习生` , 北京市
 - *2022.11 - 2023.05*, 上海人工智能实验室 `科研类实习生`, 上海市
 

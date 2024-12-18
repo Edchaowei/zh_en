@@ -1,15 +1,15 @@
 # main links links
 
 main:
-  - title: "Introduction"
+  - title: "About Me"
     url: "/zh_en/#about-me"
-  - title: "Education"
+  - title: "Educations"
     url: "/zh_en/#-xl"
-  - title: "Papers & Patents"
+  - title: "Publications"
     url: "/zh_en/#-lwzl"
-  - title: "Honors & Awards"
+  - title: "Honors and Awards"
     url: "/zh_en/#-ryjx"
-  - title: "Academic Conferences"
+  - title: "Conferences"
     url: "/zh_en/#-xshy"
-  - title: "Work & Internships"
+  - title: "Internships"
     url: "/zh_en/#-gzsx"
