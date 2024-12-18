@@ -20,7 +20,7 @@ redirect_from:
 
 Graduated with a Bachelor’s degree in English from Kunming University of Science and Technology, with a research focus on AI for Science. I have been recommended for postgraduate study at Shanghai University. During my undergraduate years, I published 1 academic paper, 3 conference papers at international conferences, obtained 4 granted invention patents, 1 accepted invention patent, and completed 1 technology transfer.
 
- <a href='https://scholar.google.com/citations?user=XAKM93EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=XAKM93EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 
 
