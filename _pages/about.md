@@ -139,11 +139,11 @@ redirect_from:
 
 ### 发明专利
 ---
-- `崔超伟`, 蔡子昊, 罗福蓉. 基于小样本学习算法的锂离子电池寿命预测方法和系统. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1m_tsTYzLsvcW1enrGWdtnLUQzNK5i8uY-zmHdAkDBN01tY0_QN0pg9xAePR8jK_rnIx3vfo_L6c0TB7IhA0Kr7kEGGAapf9D-4hsCw5nlT-vfMf9QgkDdmEk0jrbgtABum99mz-7fNb8cy--UBY-GPLgVj2cGtyw_cqb2ysmXHKzo_y7Y9Xz3&uniplatform=NZKPT&language=CHS)
-- `崔超伟`, 王东, 蔡云麒, 李江南; 沈韬, 谭纲觉, 刘金环. 基于深度学习的自适应尺度的微磁学模拟方法.[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu2JxffTwdgy3AnvbzsvkVL1xpX5Mi8q6-h_i6KrWPOLmCrQQi40Q5tje1p7CV4vp1NW_cUcT2EXpXSdW6uFQhpbhgo3mtvqwnu-_W2I4qYJNFONTz3wvodyhaaOHnCoFVohUa7ZxA0RvGxmwTBYSpLtFztEb_L3z0T-VEo_UCPKB_ugM0QT6Vay&uniplatform=NZKPT&language=CHS)
-- 蔡云麒, 蔡子昊, 张舒飞, `崔超伟`, 李康, 沈韬. 基于格拉姆角和场的锂电池剩余寿命实时预测方法. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcpftaZUyXAmflihf8Pdeg_cFi1NM878gHC3ho3tQpuACGuwGS4RUi9KOasPcv3vtUAGeL32vR_Ial64Rp_ezOk3LLcsnpIysqbx8REy1eJcVLjmTQqOl9-e8JcMe7GU9ZQ32HzvuPKY0&uniplatform=NZKPT&language=CHS) 
-- 谭纲觉, 李江南, 蔡云麒, 王东, 马吉, 沈韬, `崔超伟`. 基于生成模型的微磁动力学模拟方法. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcgX7dhhqWuNvv3JLfZCfkZStR-yKUIIrBmZF9GaFswD_gEM0FVQenc9Mwom9cEWq6UiSe1W9DTNksr0MIQ12KI0yBWQSB7gOJqP9gjxMMiWrA3khpU0uOZ1UMYY-NB5RfLA1DpSNwOwW&uniplatform=NZKPT&language=CHS) 
-- 董明荣, 蔡子昊, `崔超伟`, 蔡云麒, 沈韬, 谭纲觉, 刘金环. 基于递归图和改进 AlexNet 模型的锂电池故障识别方法、系统及存储介质. [[网页]]() 
+- `崔超伟`, 蔡子昊, 罗福蓉. 《基于小样本学习算法的锂离子电池寿命预测方法和系统》. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1m_tsTYzLsvcW1enrGWdtnLUQzNK5i8uY-zmHdAkDBN01tY0_QN0pg9xAePR8jK_rnIx3vfo_L6c0TB7IhA0Kr7kEGGAapf9D-4hsCw5nlT-vfMf9QgkDdmEk0jrbgtABum99mz-7fNb8cy--UBY-GPLgVj2cGtyw_cqb2ysmXHKzo_y7Y9Xz3&uniplatform=NZKPT&language=CHS)
+- `崔超伟`, 王东, 蔡云麒, 李江南; 沈韬, 谭纲觉, 刘金环. 《基于深度学习的自适应尺度的微磁学模拟方法》.[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu2JxffTwdgy3AnvbzsvkVL1xpX5Mi8q6-h_i6KrWPOLmCrQQi40Q5tje1p7CV4vp1NW_cUcT2EXpXSdW6uFQhpbhgo3mtvqwnu-_W2I4qYJNFONTz3wvodyhaaOHnCoFVohUa7ZxA0RvGxmwTBYSpLtFztEb_L3z0T-VEo_UCPKB_ugM0QT6Vay&uniplatform=NZKPT&language=CHS)
+- 蔡云麒, 蔡子昊, 张舒飞, `崔超伟`, 李康, 沈韬. 《基于格拉姆角和场的锂电池剩余寿命实时预测方法》. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcpftaZUyXAmflihf8Pdeg_cFi1NM878gHC3ho3tQpuACGuwGS4RUi9KOasPcv3vtUAGeL32vR_Ial64Rp_ezOk3LLcsnpIysqbx8REy1eJcVLjmTQqOl9-e8JcMe7GU9ZQ32HzvuPKY0&uniplatform=NZKPT&language=CHS) 
+- 谭纲觉, 李江南, 蔡云麒, 王东, 马吉, 沈韬, `崔超伟`. 《基于生成模型的微磁动力学模拟方法》. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9g5lTc5ddu1bbvIyO0Q0ViE9VR12s2IUUG7aeo7Ag1DPs0wFg4yOcgX7dhhqWuNvv3JLfZCfkZStR-yKUIIrBmZF9GaFswD_gEM0FVQenc9Mwom9cEWq6UiSe1W9DTNksr0MIQ12KI0yBWQSB7gOJqP9gjxMMiWrA3khpU0uOZ1UMYY-NB5RfLA1DpSNwOwW&uniplatform=NZKPT&language=CHS) 
+- 董明荣, 蔡子昊, `崔超伟`, 蔡云麒, 沈韬, 谭纲觉, 刘金环. 《基于递归图和改进 AlexNet 模型的锂电池故障识别方法、系统及存储介质》. [[网页]]() 
 
 
 
@@ -158,9 +158,9 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2021.10*, , 陕西西安, 受邀报告
+- *2019.09*, , 江苏南京, 海报
+- *2017.10*, , 河北廊坊
 
 <span class='anchor' id='-gzsx'></span>
 
