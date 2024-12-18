@@ -1,5 +1,5 @@
 ---
-permalink: /
+# permalink: /
 title: ""
 excerpt: ""
 lang: "zh-cn"
