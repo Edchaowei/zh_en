@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	Yanjun Meng, Hui Zhai, Bak Koon Teoh, Robert Lee Kong Tiong, Siyang Huang, Dawei Cen, `Chaowei Cui`. A Data-Driven Method for Constructing the Spatial Database of Traditional Villages—A Case Study of Courtyard Residential Typologies in Yunnan, China. Buildings 2023, 13, 2956.  (JCR:Q2; IF:3.1)  
-[[网页]](https://doi.org/10.3390/buildings13122956) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://doi.org/10.3390/buildings13122956) [[预览]](https://github.com/Edchaowei/homepage/blob/master/pdf/buildings-13-02956-v2.pdf) [[下载]](/pdf/buildings-13-02956-v2.pdf)
 
 </div>
 </div>
