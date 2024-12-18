@@ -1,7 +1,8 @@
 ---
-permalink: /zh-cn/
+permalink: /zh-cn/about/
 title: ""
 excerpt: ""
+lang: "zh-cn"
 author_profile: true
 redirect_from: 
   - /zh-cn/about/
